@@ -1,0 +1,241 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "OOP\n",
+      "object oriented programming is a approach or practise or way how to do the coding or is adomain or a paradigm in whcih realworld\n",
+      "object are each viewed as seperate entitues having their own state which is modified only by builtin procedures called method\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('OOP')\n",
+    "print('object oriented programming is a approach or practise or way how to do the coding or is adomain or a paradigm in whcih realworld')\n",
+    "print('object are each viewed as seperate entitues having their own state which is modified only by builtin procedures called method')\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "One of the principal advantages of object-oriented programming techniques over procedural programming techniques is that they enable programmers to create modules that do not need to be changed when a new type of object is added. A programmer can simply create a new object that inherits many of its features from existing objects. This makes object-oriented programs easier to modify\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('One of the principal advantages of object-oriented programming techniques over procedural programming techniques is that they enable programmers to create modules that do not need to be changed when a new type of object is added. A programmer can simply create a new object that inherits many of its features from existing objects. This makes object-oriented programs easier to modify')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Method and a function are the same, with different terms. A method is a procedure or function in object-oriented programming. A function is a group of reusable code which can be called anywhere in your program. This eliminates the need for writing the same code again and again\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('Method and a function are the same, with different terms. A method is a procedure or function in object-oriented programming. A function is a group of reusable code which can be called anywhere in your program. This eliminates the need for writing the same code again and again')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "a class is a blueprint for creating objects (a particular data structure), providing initial values for state (member variables or attributes), and implementations of behavior (member functions or methods). The user-defined objects are created using the class keyword.\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('a class is a blueprint for creating objects (a particular data structure), providing initial values for state (member variables or attributes), and implementations of behavior (member functions or methods). The user-defined objects are created using the class keyword.')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "In object-oriented programming (OOP), objects are the things you think about first in designing a program and they are also the units of code that are eventually derived from the process. ... Each object is an instance of a particular class or subclass with the class own methods or procedures and data variables\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('In object-oriented programming (OOP), objects are the things you think about first in designing a program and they are also the units of code that are eventually derived from the process. ... Each object is an instance of a particular class or subclass with the class own methods or procedures and data variables')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "In Object-oriented programming(OOP), classes and objects have attributes. Attributes are data stored inside a class or instance and represent the state or quality of the class or instance. In short, attributes store information about the instance. Also, attributes should not be confused with class functions also known as methods. One can think of attributes as noun or adjective, while methods are the verb of the class.\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('In Object-oriented programming(OOP), classes and objects have attributes. Attributes are data stored inside a class or instance and represent the state or quality of the class or instance. In short, attributes store information about the instance. Also, attributes should not be confused with class functions also known as methods. One can think of attributes as noun or adjective, while methods are the verb of the class.')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Behavior. A classs behavior determines how an instance of that class operates; for example, how it will react if asked to do something by another class or object or if its internal state changes. Behavior is the only way objects can do anything to themselves or have anything done to them.\n"
+     ]
+    }
+   ],
+   "source": [
+    "print('Behavior. A classs behavior determines how an instance of that class operates; for example, how it will react if asked to do something by another class or object or if its internal state changes. Behavior is the only way objects can do anything to themselves or have anything done to them.')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 33,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "CAR DETAIL\n",
+      "MY First Car Name Audi\n",
+      "MY First Car Model a3\n",
+      "MY First Car Company toyota\n",
+      "MY First Car year release 2017\n",
+      "MY First Car Color black\n",
+      "13 kilometer pr litr\n",
+      "260 kilometer pr/hr\n",
+      "yes\n",
+      "=======================================\n",
+      "MY Second Car Name Audi\n",
+      "MY Second Car Model a3\n",
+      "MY Second Car Company toyota\n",
+      "MY Second Car year release 2017\n",
+      "MY Second Car Color black\n",
+      "20 kilometer pr litr\n",
+      "290 kilometer pr/hr\n",
+      "yes\n",
+      "=======================================\n",
+      "MY Second Car Name Audi\n",
+      "MY Second Car Model a3\n",
+      "MY Second Car Company toyota\n",
+      "MY Second Car year release 2017\n",
+      "MY Second Car Color black\n",
+      "25 kilometer pr litr\n",
+      "300 kilometer pr/hr\n",
+      "yes\n"
+     ]
+    }
+   ],
+   "source": [
+    "class car():\n",
+    "    def __init__(self,name,model,color,company,year):\n",
+    "        self.name=name\n",
+    "        self.model=model\n",
+    "        self.color=color\n",
+    "        self.company=company\n",
+    "        self.year=year\n",
+    "        \n",
+    "    def average(self,kilo):\n",
+    "        print(\"{} kilometer pr litr\".format(kilo))\n",
+    "    def maxspeed(self,speed):\n",
+    "        print(\"{} kilometer pr/hr\".format(speed))\n",
+    "    def tank(self):\n",
+    "        print('yes')    \n",
+    "print('CAR DETAIL')  \n",
+    "car1=car('Audi','a3','black','toyota','2017')\n",
+    "print('MY First Car Name',car1.name)\n",
+    "print('MY First Car Model',car1.model)\n",
+    "print('MY First Car Company',car1.company)\n",
+    "print('MY First Car year release',car1.year)\n",
+    "print('MY First Car Color',car1.color)\n",
+    "car1.average(13)\n",
+    "car1.maxspeed(260)\n",
+    "car1.tank()\n",
+    "print('=======================================')\n",
+    "car2=car('Audi','a3','black','toyota','2017')\n",
+    "print('MY Second Car Name',car2.name)\n",
+    "print('MY Second Car Model',car2.model)\n",
+    "print('MY Second Car Company',car2.company)\n",
+    "print('MY Second Car year release',car2.year)\n",
+    "print('MY Second Car Color',car2.color)\n",
+    "car2.average(20)\n",
+    "car2.maxspeed(290)\n",
+    "car2.tank()\n",
+    "print('=======================================')\n",
+    "car3=car('Audi','a3','black','toyota','2017')\n",
+    "print('MY THIRD Car Name',car3.name)\n",
+    "print('MY THIRD  Car Model',car3.model)\n",
+    "print('MY THIRD  Car Company',car3.company)\n",
+    "print('MY THIRD  Car year release',car3.year)\n",
+    "print('MY THIRD  Car Color',car3.color)\n",
+    "car3.average(25)\n",
+    "car3.maxspeed(300)\n",
+    "car3.tank()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
